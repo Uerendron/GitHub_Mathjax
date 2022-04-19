@@ -5,9 +5,9 @@ This extension adds support for displaying LaTeX equations in GitHub repositorie
 
 Right-Click on an equation to show MathJax's context menu with additional options, e.g. "Scale All Math..." to instantly scale all equations on a page, "TeX commands" to see the source TeX equation etc.
 
-The extension is published under [New BSD License](https://github.com/orsharir/github-mathjax/blob/master/LICENSE.md) with the source code available [here](https://github.com/orsharir/github-mathjax). This extension is based on the __wonderful__ [wiki_mathjax](https://github.com/bgromov/wiki-mathjax) extension by [Boris Gromov](https://github.com/bgromov), and its license is included as part of LICENSE.md in this repository.
+The extension is published under [New BSD License](https://github.com/Uerendron/GitHub_Mathjax/commit/7aa32ccbe523f0d7169f54bb179263b1cc3589fa) with the source code available [here](https://github.com/Uerendron/GitHub_Mathjax). This extension is based on the __wonderful__ [wiki_mathjax](https://github.com/bgromov/wiki-mathjax) extension by [Boris Gromov](https://github.com/bgromov), and its license is included as part of LICENSE.md in this repository.
 
-For bug reports and feature requests, please use [Issue tracker](https://github.com/orsharir/github-mathjax/issues).
+For bug reports and feature requests, please use [Issue tracker](https://github.com/Uerendron/GitHub_Mathjax/issues).
 
 ### INSTALLATION:
 
